@@ -1,0 +1,8 @@
+# 本地实测密钥与会话，禁止随教程分发
+.env
+**/.env
+deploy/.env
+deploy/backups/
+logs/
+*.png
+.npm-prefix/
